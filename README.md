@@ -75,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Niha241/30daysleetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Niha241/30daysleetcode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Niha241/30daysleetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Niha241/30daysleetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Niha241/30daysleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Niha241/30daysleetcode/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Niha241/30daysleetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Niha241/30daysleetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Niha241/30daysleetcode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Niha241/30daysleetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Niha241/30daysleetcode/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/Niha241/30daysleetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Rolling Hash
 |  |
 | ------- |
