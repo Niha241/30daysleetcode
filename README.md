@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Niha241/30daysleetcode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Niha241/30daysleetcode/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/Niha241/30daysleetcode/tree/master/0090-subsets-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Niha241/30daysleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Niha241/30daysleetcode/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Niha241/30daysleetcode/tree/master/0413-arithmetic-slices) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Niha241/30daysleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/Niha241/30daysleetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Niha241/30daysleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Niha241/30daysleetcode/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Niha241/30daysleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Niha241/30daysleetcode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Niha241/30daysleetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Niha241/30daysleetcode/tree/master/0413-arithmetic-slices) |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Niha241/30daysleetcode/tree/master/0187-repeated-dna-sequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Niha241/30daysleetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
