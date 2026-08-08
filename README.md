@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Niha241/30daysleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Niha241/30daysleetcode/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Niha241/30daysleetcode/tree/master/0413-arithmetic-slices) |
+| [0594-longest-harmonious-subsequence](https://github.com/Niha241/30daysleetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Niha241/30daysleetcode/tree/master/0047-permutations-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Niha241/30daysleetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Niha241/30daysleetcode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Niha241/30daysleetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Niha241/30daysleetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/Niha241/30daysleetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Niha241/30daysleetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Niha241/30daysleetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Niha241/30daysleetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/Niha241/30daysleetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -110,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Niha241/30daysleetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Niha241/30daysleetcode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
