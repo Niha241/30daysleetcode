@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Niha241/30daysleetcode/tree/master/0002-add-two-numbers) |
+| [0371-sum-of-two-integers](https://github.com/Niha241/30daysleetcode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Niha241/30daysleetcode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Niha241/30daysleetcode/tree/master/0187-repeated-dna-sequences) |
+| [0371-sum-of-two-integers](https://github.com/Niha241/30daysleetcode/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
