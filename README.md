@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Niha241/30daysleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Niha241/30daysleetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Niha241/30daysleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Niha241/30daysleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/Niha241/30daysleetcode/tree/master/0731-my-calendar-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Niha241/30daysleetcode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Niha241/30daysleetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Niha241/30daysleetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Niha241/30daysleetcode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Niha241/30daysleetcode/tree/master/0731-my-calendar-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Niha241/30daysleetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
