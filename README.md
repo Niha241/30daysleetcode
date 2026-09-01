@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Niha241/30daysleetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Niha241/30daysleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Niha241/30daysleetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Niha241/30daysleetcode/tree/master/0278-first-bad-version) |
 | [0731-my-calendar-ii](https://github.com/Niha241/30daysleetcode/tree/master/0731-my-calendar-ii) |
 ## Divide and Conquer
 |  |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Niha241/30daysleetcode/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Niha241/30daysleetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
