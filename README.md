@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Niha241/30daysleetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Niha241/30daysleetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Niha241/30daysleetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Niha241/30daysleetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Niha241/30daysleetcode/tree/master/0278-first-bad-version) |
 | [0731-my-calendar-ii](https://github.com/Niha241/30daysleetcode/tree/master/0731-my-calendar-ii) |
 ## Divide and Conquer
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Niha241/30daysleetcode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Niha241/30daysleetcode/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/Niha241/30daysleetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Niha241/30daysleetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Niha241/30daysleetcode/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
@@ -170,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Niha241/30daysleetcode/tree/master/0278-first-bad-version) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Niha241/30daysleetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Niha241/30daysleetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
