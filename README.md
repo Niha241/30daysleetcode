@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Niha241/30daysleetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Niha241/30daysleetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Niha241/30daysleetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Niha241/30daysleetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Niha241/30daysleetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Niha241/30daysleetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Niha241/30daysleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Niha241/30daysleetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Niha241/30daysleetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Niha241/30daysleetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Niha241/30daysleetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Niha241/30daysleetcode/tree/master/0371-sum-of-two-integers) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Niha241/30daysleetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Niha241/30daysleetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Niha241/30daysleetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Niha241/30daysleetcode/tree/master/0240-search-a-2d-matrix-ii) |
