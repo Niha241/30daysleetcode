@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Niha241/30daysleetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Niha241/30daysleetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Niha241/30daysleetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Niha241/30daysleetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Niha241/30daysleetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Niha241/30daysleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Niha241/30daysleetcode/tree/master/0090-subsets-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Niha241/30daysleetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Niha241/30daysleetcode/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/Niha241/30daysleetcode/tree/master/0064-minimum-path-sum) |
 | [0413-arithmetic-slices](https://github.com/Niha241/30daysleetcode/tree/master/0413-arithmetic-slices) |
 ## Greedy
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Niha241/30daysleetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Niha241/30daysleetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Niha241/30daysleetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Niha241/30daysleetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Niha241/30daysleetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
