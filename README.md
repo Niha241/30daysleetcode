@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Niha241/30daysleetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Niha241/30daysleetcode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Niha241/30daysleetcode/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/Niha241/30daysleetcode/tree/master/0091-decode-ways) |
 | [0413-arithmetic-slices](https://github.com/Niha241/30daysleetcode/tree/master/0413-arithmetic-slices) |
 ## Greedy
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Niha241/30daysleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Niha241/30daysleetcode/tree/master/0005-longest-palindromic-substring) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Niha241/30daysleetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0091-decode-ways](https://github.com/Niha241/30daysleetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Niha241/30daysleetcode/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Niha241/30daysleetcode/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Niha241/30daysleetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
